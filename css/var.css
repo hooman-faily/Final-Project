@@ -1,0 +1,11 @@
+:root{
+    --primary-color: #5c5c5c;
+    --primary-color-light: #535353;
+    --primary-color-dark: #363636;
+    --h1:3rem;
+}
+
+.btn-primary{
+    background-color: var(--primary-color);
+    font-size: var(--h1);
+}
