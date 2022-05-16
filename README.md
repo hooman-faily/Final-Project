@@ -4,7 +4,7 @@ Start with Variables, using Figma design system.
         Variables need to be in var.css file.
         Use the same naming format that you have in Figma.
 
-Create an individual HTML, and CSS file fpr each component.
+Create an individual HTML, and CSS file for each component.
     Example:
         btn.css, and btn.html
 
